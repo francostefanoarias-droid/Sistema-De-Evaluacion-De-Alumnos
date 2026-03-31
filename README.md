@@ -4,13 +4,13 @@ Sistema desarrollado en C# el cual permite ingresar datos de un alumno, calcular
 
 // Funcionalidades
 
--- Validación de nombre (no se permite la utilización de números, simbolos, etc)
--- Ingreso de 3 notas (0 a 10)
--- Cálculo automático del promedio
--- Clasificación del alumno:
-  -- Desaprobado
-  -- Aprobado
-  -- Promocionado
+- Validación de nombre (no se permite la utilización de números, simbolos, etc)
+- Ingreso de 3 notas (0 a 10)
+- Cálculo automático del promedio
+- Clasificación del alumno:
+  - Desaprobado
+  - Aprobado
+  - Promocionado
 
 // Ejecución
 
